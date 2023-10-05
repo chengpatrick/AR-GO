@@ -1,0 +1,5 @@
+sceneSetups:
+- path: Assets/Samples/ARCore Extensions/1.39.0/Geospatial Sample/Scenes/Geospatial.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
